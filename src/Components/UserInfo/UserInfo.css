@@ -1,0 +1,16 @@
+.card-img{
+    border-radius: 50%;
+    width: 150px;
+    text-align: center;
+    display: block;
+}
+.card-style{
+    border-radius: 50%;
+    
+}
+
+.btn-card{
+    border: none;
+    
+
+}

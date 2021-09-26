@@ -1,0 +1,6 @@
+.header{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(49,99,129,1) 0%, rgba(110,53,52,0.5494572829131652) 100%, rgba(83,74,130,1) 100%, rgba(11,9,121,1) 100%);
+    color: white;
+    padding-bottom: 30px;
+}
