@@ -15,7 +15,7 @@ const UserInfo = (props) => {
                 <div className="card-body">
                     <h5 className="card-title text-primary">Full-Name: {full_name}</h5>
                     <p className="card-text">Manufacture: {manufacture}</p>
-                    <p className="card-text">E-mail: {email}</p>
+                    <p className="card-text">Company e-mail: {email}</p>
                     <h3 className="card-text">Price: ${salary}</h3>
                     <p className="card-text">Country: {country}</p>
 
