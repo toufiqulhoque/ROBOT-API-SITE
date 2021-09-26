@@ -1,4 +1,24 @@
+# Hire Bots
+
+You can hire our bot from this website. We have all types of bots to fulfill your requirement.
+
+## Website links
+
+Click Site : [Hire bot](https://robot-toufiq.netlify.app/)
+![Click here](https://i.imgur.com/iog8Tvl.png)
+
+
+
+## functionalities
+
+* Users can hire our bot from this website.
+* Users can add multiple bots from this site. 
+* Users can view the selected bots in the selected bot list section.
+
+
 # Getting Started with Create React App
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
